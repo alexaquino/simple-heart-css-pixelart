@@ -1,0 +1,53 @@
+body {
+    background-color: #f9ed69;
+}
+
+.pixel-block {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 6em;
+    height: 5em;
+}
+
+.pixelized--heart {
+    display: block;
+    width: 1em;
+    height: 1em;
+  
+    box-shadow: 
+    1em 0em #FF2E63,
+    2em 0em #FF2E63,
+    4em 0em #FF2E63,
+    5em 0em #FF2E63,
+
+    0em 1em #FF2E63,
+    1em 1em #FF2E63,
+    2em 1em #FF2E63,
+    3em 1em #FF2E63,
+    4em 1em #FF2E63,
+    5em 1em #FF2E63,
+    6em 1em #FF2E63,
+
+    0em 2em #FF2E63,
+    1em 2em #FF2E63,
+    2em 2em #FF2E63,
+    3em 2em #FF2E63,
+    4em 2em #FF2E63,
+    5em 2em #FF2E63,
+    6em 2em #FF2E63,
+
+    1em 3em #FF2E63,
+    2em 3em #FF2E63,
+    3em 3em #FF2E63,
+    4em 3em #FF2E63,
+    5em 3em #FF2E63,
+        
+    2em 4em #FF2E63,
+    3em 4em #FF2E63,
+    4em 4em #FF2E63,
+     
+    3em 5em #FF2E63;
+}
+
