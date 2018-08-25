@@ -1,4 +1,4 @@
-# simple-heart-css-pixelart
+# Simple Heart CSS Pixel Art
 
 Pixel art with Pure CSS - Heart { Simple Heart }
 
