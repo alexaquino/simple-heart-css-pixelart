@@ -37,4 +37,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ### Authors
 
-* `Alex Aquino`
+* @alexaquino
+* `Email: alexaquino.it@gmail.com`
+* `Codepen: codepen.io/alexaquino`
+* `Instagram: instagram.com/alexaquino_it/`
