@@ -2,7 +2,7 @@
 
 Pixel art with Pure CSS - Heart { Simple Heart }
 
-![_Captura_de_Tela_2018-07-24_às_22.39.00](/uploads/3855e7db31212c2b3c4a4a38cd786c1a/_Captura_de_Tela_2018-07-24_às_22.39.00.png)
+![_Captura_de_Tela_2018-07-24_às_22 39 00](https://user-images.githubusercontent.com/12216463/59978720-cf3cd380-95b5-11e9-85d5-78c087b793f0.png)
 
 ### Directory Structure
 
